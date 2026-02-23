@@ -1,5 +1,0 @@
-x=int(input("Nhập vào số nguyên a:"))
-y=int(input("Nhập vào số nguyên b:"))
-z=int(input("Nhập vào số nguyên c:"))
-N= (x**2 + y**2 +z**2)
-print("Kết quả biểu thức là:", N)
