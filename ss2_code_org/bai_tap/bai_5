@@ -1,0 +1,7 @@
+a = int(input("Nhập số nguyên:"))
+g = str(a)
+b = float(a)
+c = bool(a)
+print("dạng string: ", g)
+print("Dạng float:", b)
+print("dạng boolean:", c)
