@@ -34,7 +34,7 @@ def edit_friend():
             print("Không hợp lệ.")
     except:
         print("Vui lòng nhập số.")
-#xóa be
+#xóa bbe
 def delete_friend():
     show_friends()
     if len(friends) == 0:

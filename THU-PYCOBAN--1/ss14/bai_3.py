@@ -1,0 +1,5 @@
+animals = ("cat", "dog", "rabbit", "tiger")
+print(animals[0])
+print(animals[1])
+print(animals[2])
+print(animals[3])

@@ -1,0 +1,7 @@
+numbers = (2, 4, 6, 8, 10)
+t=sum(numbers)
+lon_nhat=max(numbers)
+nho_nhat=min(numbers)
+print("tổng : ", t )
+print("nhỏ nhất: ", nho_nhat)
+print("lớn nhất: ", lon_nhat)
